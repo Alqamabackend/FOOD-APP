@@ -25,8 +25,3 @@ It provides a RESTful API to handle authentication, food items, cart, and orders
 - **MongoDB** + **Mongoose**
 - **Postman** for testing
 - **dotenv**, **bcrypt**, **jsonwebtoken**
-
----
-
-## 📂 Project Structure
-
